@@ -48,3 +48,7 @@ You can manage the ACL with the boto api:
 You can set and get metadata too.
 
 For Django you can use S3BotoStorage.
+
+Check out the free app 3Hub in the App Store. You can do a lot of S3 operations with it.
+
+    
