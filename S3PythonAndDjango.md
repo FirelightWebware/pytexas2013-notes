@@ -1,5 +1,5 @@
 # Talk: S3 Python & Django
-_Speaker: Eloy Zuniga_
+_Speaker: Eloy Zuniga (gh: eloyz)_
 
 Basic understanding of using Python and Django with S3
 
